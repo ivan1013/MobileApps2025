@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_note">Добави бележка</string>
+    <string name="app_name">NotesApp</string>
+    <string name="cancel">Отказ</string>
+    <string name="category">Категория</string>
+    <string name="content">Съдържание</string>
+    <string name="created">Създадена</string>
+    <string name="delete">Изтрий</string>
+    <string name="delete_confirmation">Сигурни ли сте, че искате да изтриете тази бележка?</string>
+    <string name="edit">Редактирай</string>
+    <string name="edit_note">Редактирай бележка</string>
+    <string name="last_modified">Последна промяна</string>
+    <string name="my_notes">Моите бележки</string>
+    <string name="no_notes">Все още няма бележки. Натиснете бутона +, за да създадете една!</string>
+    <string name="note_details">Детайли на бележката</string>
+    <string name="save">Запази</string>
+    <string name="search">Търси бележки</string>
+    <string name="share">Сподели</string>
+    <string name="title">Заглавие</string>
+</resources>

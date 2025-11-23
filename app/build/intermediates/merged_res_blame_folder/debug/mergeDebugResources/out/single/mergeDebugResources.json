@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.notesapp-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.notesapp-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/layout_fragment_note_list.xml.flat",
+        "source": "com.example.notesapp-main-55:/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/layout_fragment_add_edit_note.xml.flat",
+        "source": "com.example.notesapp-main-55:/layout/fragment_add_edit_note.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/layout_fragment_note_detail.xml.flat",
+        "source": "com.example.notesapp-main-55:/layout/fragment_note_detail.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.notesapp-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.example.notesapp-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.notesapp-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.notesapp-main-55:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-53:/layout_item_note.xml.flat",
+        "source": "com.example.notesapp-main-55:/layout/item_note.xml"
+    }
+]
